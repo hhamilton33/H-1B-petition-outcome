@@ -1,6 +1,6 @@
 # H-1B-petition-outcome
 
-# Predicting H1B Visa petition outcomes using machine learning
+# Predicting H-1B Visa petition outcomes with machine learning models
 
 ## Description
 
